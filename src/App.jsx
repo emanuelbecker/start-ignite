@@ -1,5 +1,5 @@
 // TODOS OS COMPONENTES JSX = JavaScript + XML
-import post from './Post'
+import Post from './Post';
 function App() {
   return (
     <h1>Hello World</h1>
